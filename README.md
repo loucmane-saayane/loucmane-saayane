@@ -1,4 +1,4 @@
-# Jericho CORTEZ - GitHub Profile
+# Loucmane Saayane - GitHub Profile
 
 ## 👋 Hello, I'm Loucmane!
 
