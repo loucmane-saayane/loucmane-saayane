@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Saayane Loucmane</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+# Jericho CORTEZ - GitHub Profile
 
-- 🌱 I’m currently learning **Python,HTML,CSS**
+## 👋 Hello, I'm Loucmane!
 
-- 📫 How to reach me **linosekaye@gmail.comm**
+I am currently in training at **La Plateforme** school, specializing in cybersecurity. Passionate about this field, I decided to pursue this path to protect computer systems and enhance their security.
 
-- ⚡ Fun fact **Je pense que je suis un mec chill**
+Outside of my studies, I am also a web developer, and I enjoy creating projects that allow me to explore new technologies and improve my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/all might" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="all might" height="30" width="40" /></a>
-<a href="https://instagram.com/luqman31_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luqman31_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mark landers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mark landers" height="30" width="40" /></a>
-</p>
+## 🎯 My Goal
+My goal is to become an expert in **cybersecurity** and apply my knowledge to help secure infrastructures and computer networks. At the same time, I continue to develop my skills in **web development** to create functional and secure websites and applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔧 Skills
+- **Cybersecurity**: Vulnerability analysis, risk management, data protection.
+- **Web Development**: HTML, CSS, JavaScript, PHP, React, Node.js.
+- **Tools**: Git, GitHub, Docker, Kali Linux, Burp Suite.
 
+## 📚 My Training and Certifications
+- **Cybersecurity** training at **La Plateforme** school.
+- **OWASP** certification in secure development.
+- **Web development** courses (HTML, CSS, JavaScript, React, Node.js).
+
+## 💬 Contact
+- **Email**: [linosekaye@gmail.com](mailto:linosekaye@gmail.com)
+
+Feel free to reach out for any collaboration or questions. I'm always open to new projects and connecting with other enthusiasts!
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=loucmane-saayane&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=loucmane-saayane&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loucmane-saayane&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
